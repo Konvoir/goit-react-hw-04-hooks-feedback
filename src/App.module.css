@@ -1,0 +1,7 @@
+.container {
+  max-width: 600px;
+  margin: 50 auto;
+  padding: 20 auto;
+  text-align: center;
+  justify-content: center;
+}
